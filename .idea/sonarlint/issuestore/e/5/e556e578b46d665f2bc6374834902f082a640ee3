@@ -1,0 +1,45 @@
+
+u
+java:S1192"SDefine a constant instead of duplicating this literal "result string is: " 4 times.(ÚÉ‹ªûÿÿÿÿ8¸Ñìş¶2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÂ›˜ûÿÿÿÿ8¹Ñìş¶2
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8½Ñìş¶2
+S
+java:S2440"1Remove this instantiation of "CharCountString15".(”äæ¿ıÿÿÿÿ8¾Ñìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÉ‹ªûÿÿÿÿ8¾Ñìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(ÚÉ‹ªûÿÿÿÿ8¾Ñìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»…¶¦ÿÿÿÿÿ8¾Ñìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(»…¶¦ÿÿÿÿÿ8¾Ñìş¶2
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×‹›o8¿Ñìş¶2
+Q
+java:S2209"5Change this instance-reference to a static reference.(×‹›o8¿Ñìş¶2
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Í²ÇÈ8¿Ñìş¶2
+R
+java:S2209	"5Change this instance-reference to a static reference.(Í²ÇÈ8¿Ñìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘İÓŒüÿÿÿÿ8¿Ñìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(‘İÓŒüÿÿÿÿ8¿Ñìş¶2
+Q
+java:S2440"4Remove this instantiation of "StringUniquesChars11".(›É—×8¿Ñìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ƒÇÒÿÿÿÿÿ8¿Ñìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(¿ƒÇÒÿÿÿÿÿ8ÀÑìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ºŞıÿÿÿÿ8ÀÑìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(£ºŞıÿÿÿÿ8ÀÑìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş“˜˜ûÿÿÿÿ8ÀÑìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(Ş“˜˜ûÿÿÿÿ8ÀÑìş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†õéìøÿÿÿÿ8ÀÑìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(†õéìøÿÿÿÿ8ÀÑìş¶2
+S
+java:S2440"1Remove this instantiation of "StringRevevrsal12".(­¸©üùÿÿÿÿ8îş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şºıÿÿÿÿ8ÀÑìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(şºıÿÿÿÿ8‚îş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’˜Öşúÿÿÿÿ8ÁÑìş¶2
+W
+java:S2209"5Change this instance-reference to a static reference.(’˜Öşúÿÿÿÿ8‚îş¶2

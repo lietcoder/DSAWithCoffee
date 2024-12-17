@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çóê§ûÿÿÿÿ8òñÛˆ³2
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¨£»‹8÷ñÛˆ³2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(§„è‘üÿÿÿÿ8âÜëˆ³2
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(äÂïÁ8òÛˆ³2
+W	java:S125"<This block of commented-out lines of code should be removed.(¹ÅŞ.8±æúˆ³2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘ñ’í8âÈøˆ³2
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(ùì¢8ƒ‹õˆ³2

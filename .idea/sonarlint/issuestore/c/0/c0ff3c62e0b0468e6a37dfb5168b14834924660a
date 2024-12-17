@@ -1,0 +1,33 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı‡Êß8„˜ÇÌ²2
+i
+java:S1854"GRemove this useless assignment to local variable "multiLevelArrayList".(Öçóùÿÿÿÿ8…§×Ì²2
+n
+java:S1854	"LRemove this useless assignment to local variable "stringArrayFromSysInputs".(¼¯‰ˆúÿÿÿÿ8İÔÇÌ²2
+_
+java:S1854"=Remove this useless assignment to local variable "twoDarray".(ó±ìùÿÿÿÿ8†˜ÇÌ²2
+a
+java:S1854"?Remove this useless assignment to local variable "listExample".(»½†ˆúÿÿÿÿ8†˜ÇÌ²2
+R
+java:S2440"0Remove this instantiation of "ArrayListExample".(»½†ˆúÿÿÿÿ8ù¦ËÛ²2
+R
+java:S1481"0Remove this unused "listExample" local variable.(»½†ˆúÿÿÿÿ8‡˜ÇÌ²2
+]	java:S125"<This block of commented-out lines of code should be removed.(«éÆãüÿÿÿÿ8‡˜ÇÌ²2
+P
+java:S1481".Remove this unused "twoDarray" local variable.(ó±ìùÿÿÿÿ8‡˜ÇÌ²2
+]	java:S125"<This block of commented-out lines of code should be removed.(–‡Ê˜úÿÿÿÿ8‡˜ÇÌ²2
+Z
+java:S2440	"8Remove this instantiation of "StringArrayFromSysInputs".(¼¯‰ˆúÿÿÿÿ8ù¦ËÛ²2
+_
+java:S1481	"=Remove this unused "stringArrayFromSysInputs" local variable.(¼¯‰ˆúÿÿÿÿ8ŞÔÇÌ²2
+]	java:S125
+"<This block of commented-out lines of code should be removed.(œ•«úÿÿÿÿ8ŞÔÇÌ²2
+W
+java:S2209"5Change this instance-reference to a static reference.(Ó¦ƒ›úÿÿÿÿ8ú¦ËÛ²2
+R
+java:S2209"5Change this instance-reference to a static reference.(¨Óæá8ú¦ËÛ²2
+U
+java:S2440"3Remove this instantiation of "MultiLevelArrayList".(Öçóùÿÿÿÿ8ú¦ËÛ²2
+Z
+java:S1481"8Remove this unused "multiLevelArrayList" local variable.(Öçóùÿÿÿÿ8†§×Ì²2
+]	java:S125"<This block of commented-out lines of code should be removed.(Á±Ø·úÿÿÿÿ8†§×Ì²2

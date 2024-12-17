@@ -1,0 +1,36 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çóê§ûÿÿÿÿ8Îùéˆ³2
+U
+java:S2440"8Remove this instantiation of "FindEvenOddDigitsInArray".(‹„¤‹8Òùéˆ³2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à³­Áüÿÿÿÿ8Óùéˆ³2
+W
+java:S2209"5Change this instance-reference to a static reference.(à³­Áüÿÿÿÿ8Óùéˆ³2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³‘Ğ‹8Óùéˆ³2
+R
+java:S2209"5Change this instance-reference to a static reference.(³‘Ğ‹8Óùéˆ³2
+Q
+java:S2209"5Change this instance-reference to a static reference.(üºèk8Óùéˆ³2
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Î¤¤Îûÿÿÿÿ8Óùéˆ³2
+W
+java:S2209	"5Change this instance-reference to a static reference.(Î¤¤Îûÿÿÿÿ8Óùéˆ³2
+V
+java:S2440"4Remove this instantiation of "MinMaxElementInArray".(Øÿ¾úÿÿÿÿ8Ôùéˆ³2
+R
+java:S2209"5Change this instance-reference to a static reference.(é¶öË8Ôùéˆ³2
+R
+java:S2440"5Remove this instantiation of "FindTargetElemInArray".(”¨¯½8Ôùéˆ³2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‚êúÿÿÿÿ8Ôùéˆ³2
+W
+java:S2209"5Change this instance-reference to a static reference.(Ó‚êúÿÿÿÿ8Ôùéˆ³2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ò³™øÿÿÿÿ8Ôùéˆ³2
+V
+java:S2440"4Remove this instantiation of "SearchElementInRange".(µ„“Õüÿÿÿÿ8Ôùéˆ³2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É©İ´ûÿÿÿÿ8Ôùéˆ³2
+W
+java:S2209"5Change this instance-reference to a static reference.(É©İ´ûÿÿÿÿ8Õùéˆ³2
+O
+java:S2440"2Remove this instantiation of "SearchCharInString".(¾Š·µ8Òºùˆ³2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Öâ¼8Õùéˆ³2
+R
+java:S2209"5Change this instance-reference to a static reference.(Öâ¼8Õùéˆ³2
+X	java:S125"<This block of commented-out lines of code should be removed.(÷®­Û8Ìüˆ³2

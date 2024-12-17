@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÂ›˜ûÿÿÿÿ8´¼Öş¶2
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“Ø…ÿÿÿÿÿ8Á¼Öş¶2
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ë—µ—8Á¼Öş¶2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(©¼»ñûÿÿÿÿ8Â¼Öş¶2
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ü‡¹·8Ç¼Öş¶2
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.( ·­„úÿÿÿÿ8Ç¼Öş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğÒûÿÿÿÿ8²Ãñş¶2
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸Òü48ÔËòş¶2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğÒûÿÿÿÿ8–öş¶2
